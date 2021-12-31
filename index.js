@@ -211,7 +211,7 @@ function play(guild, song) {
 }
 
 
-const token = 'MzgyOTE1MDIzNDg1NDAzMTM3.WhWXZw.McZ9PN2Hitn8zHz8iwdgdStVFks' 
+const token = '' 
 client.login(process.env.token);
 
 
